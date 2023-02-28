@@ -1,5 +1,5 @@
 # 25_mod_practicume
-web application autotesting
+<b>web application autotesting</b>
 <br><h2>Задание 25.3.1</h2>
 1. Присутствуют все питомцы.
 2. Хотя бы у половины питомцев есть фото.
